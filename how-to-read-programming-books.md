@@ -1,0 +1,3 @@
+- Read your programming book as normal. When you get to a code sample, read it over
+- Then close the book.
+- Then try to type it up.
